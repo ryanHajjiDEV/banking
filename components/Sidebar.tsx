@@ -6,7 +6,7 @@ import { sidebarLinks } from "@/constants";
 import { cn } from "@/lib/utils";
 import { usePathname } from "next/navigation";
 import { isatty } from "tty";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 const Sidebar = ({ user }: SiderbarProps) => {
   const pathname = usePathname();
@@ -22,7 +22,7 @@ const Sidebar = ({ user }: SiderbarProps) => {
             alt="Horizon Logo"
             className="size-[24px] max-xl:size-14"
           />
-          <h1 className="sidebar-logo">Horizon</h1>
+          <h1 className="sidebar-logo font-serif">Horizon</h1>
         </Link>
 
         {sidebarLinks.map((item) => {
