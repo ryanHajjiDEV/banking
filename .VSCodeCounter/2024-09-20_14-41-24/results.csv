@@ -1,0 +1,158 @@
+"filename", "language", "JSON with Comments", "JSON", "TypeScript", "XML", "TypeScript JSX", "Markdown", "JavaScript", "CSS", "comment", "blank", "total"
+"/Users/ryanhajji/Documents/Projects/jsm_banking/.eslintrc.json", "JSON", 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/README.md", "Markdown", 0, 0, 0, 0, 0, 23, 0, 0, 0, 14, 37
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(404)/ErrorPage/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 19, 0, 0, 0, 1, 5, 25
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(auth)/layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 22, 0, 0, 0, 0, 2, 24
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(auth)/sign-in/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 10, 0, 0, 0, 0, 5, 15
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(auth)/sign-up/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 9, 0, 0, 0, 0, 4, 13
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(landingPage)/landing-page/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 788, 0, 0, 0, 6, 37, 831
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(root)/layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 27, 0, 0, 0, 0, 4, 31
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(root)/my-banks/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 0, 5, 37
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(root)/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 49, 0, 0, 0, 0, 9, 58
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(root)/payment-transfer/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 25, 0, 0, 0, 0, 6, 31
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/(root)/transaction-history/page.tsx", "TypeScript JSX", 0, 0, 0, 0, 65, 0, 0, 0, 0, 13, 78
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/api/sentry-example-api/route.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 1, 3, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 286, 18, 91, 395
+"/Users/ryanhajji/Documents/Projects/jsm_banking/app/layout.tsx", "TypeScript JSX", 0, 0, 0, 0, 29, 0, 0, 0, 0, 4, 33
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components.json", "JSON", 0, 17, 0, 0, 0, 0, 0, 0, 0, 0, 17
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/AnimatedCounter.tsx", "TypeScript JSX", 0, 0, 0, 0, 17, 0, 0, 0, 0, 4, 21
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/AuthForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 225, 0, 0, 0, 1, 20, 246
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/BankCard.tsx", "TypeScript JSX", 0, 0, 0, 0, 63, 0, 0, 0, 0, 7, 70
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/BankDropdown.tsx", "TypeScript JSX", 0, 0, 0, 0, 77, 0, 0, 0, 0, 7, 84
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/BankInfo.tsx", "TypeScript JSX", 0, 0, 0, 0, 65, 0, 0, 0, 0, 10, 75
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/BankTabItem.tsx", "TypeScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 0, 6, 38
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/Category.tsx", "TypeScript JSX", 0, 0, 0, 0, 35, 0, 0, 0, 0, 6, 41
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/Copy.tsx", "TypeScript JSX", 0, 0, 0, 0, 58, 0, 0, 0, 0, 7, 65
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/CustomInput.tsx", "TypeScript JSX", 0, 0, 0, 0, 39, 0, 0, 0, 0, 7, 46
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/DoughnutChart.tsx", "TypeScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 0, 7, 39
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/Footer.tsx", "TypeScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 2, 10, 44
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/HeaderBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 16, 0, 0, 0, 0, 2, 18
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/MobileNav.tsx", "TypeScript JSX", 0, 0, 0, 0, 91, 0, 0, 0, 1, 8, 100
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/Pagination.tsx", "TypeScript JSX", 0, 0, 0, 0, 57, 0, 0, 0, 0, 8, 65
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/PaymentTransferForm.tsx", "TypeScript JSX", 0, 0, 0, 0, 232, 0, 0, 0, 2, 21, 255
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/PlaidLink.tsx", "TypeScript JSX", 0, 0, 0, 0, 79, 0, 0, 0, 0, 10, 89
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/RecentTransactions.tsx", "TypeScript JSX", 0, 0, 0, 0, 71, 0, 0, 0, 0, 10, 81
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/RightSidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 82, 0, 0, 0, 0, 10, 92
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/Sidebar.tsx", "TypeScript JSX", 0, 0, 0, 0, 52, 0, 0, 0, 0, 8, 60
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ToastButton.tsx", "TypeScript JSX", 0, 0, 0, 0, 22, 0, 0, 0, 1, 6, 29
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/TotalBalanceBox.tsx", "TypeScript JSX", 0, 0, 0, 0, 26, 0, 0, 0, 0, 5, 31
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/TransactionsTable.tsx", "TypeScript JSX", 0, 0, 0, 0, 92, 0, 0, 0, 0, 12, 104
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/button.tsx", "TypeScript JSX", 0, 0, 0, 0, 51, 0, 0, 0, 0, 6, 57
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/form.tsx", "TypeScript JSX", 0, 0, 0, 0, 153, 0, 0, 0, 0, 26, 179
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/input.tsx", "TypeScript JSX", 0, 0, 0, 0, 21, 0, 0, 0, 0, 5, 26
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/label.tsx", "TypeScript JSX", 0, 0, 0, 0, 21, 0, 0, 0, 0, 6, 27
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/progress.tsx", "TypeScript JSX", 0, 0, 0, 0, 24, 0, 0, 0, 0, 4, 28
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/select.tsx", "TypeScript JSX", 0, 0, 0, 0, 146, 0, 0, 0, 0, 15, 161
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/sheet.tsx", "TypeScript JSX", 0, 0, 0, 0, 125, 0, 0, 0, 0, 16, 141
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/table.tsx", "TypeScript JSX", 0, 0, 0, 0, 107, 0, 0, 0, 0, 11, 118
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 48, 0, 0, 0, 0, 8, 56
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/textarea.tsx", "TypeScript JSX", 0, 0, 0, 0, 20, 0, 0, 0, 0, 5, 25
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/toast.tsx", "TypeScript JSX", 0, 0, 0, 0, 116, 0, 0, 0, 0, 14, 130
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/toaster.tsx", "TypeScript JSX", 0, 0, 0, 0, 32, 0, 0, 0, 0, 4, 36
+"/Users/ryanhajji/Documents/Projects/jsm_banking/components/ui/use-toast.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/ryanhajji/Documents/Projects/jsm_banking/constants/index.ts", "TypeScript", 0, 0, 132, 0, 0, 0, 0, 0, 5, 7, 144
+"/Users/ryanhajji/Documents/Projects/jsm_banking/instrumentation.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 3, 11
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/actions/bank.actions.ts", "TypeScript", 0, 0, 183, 0, 0, 0, 0, 0, 14, 33, 230
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/actions/dwolla.actions.ts", "TypeScript", 0, 0, 101, 0, 0, 0, 0, 0, 3, 11, 115
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/actions/transaction.actions.ts", "TypeScript", 0, 0, 51, 0, 0, 0, 0, 0, 0, 10, 61
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/actions/user.actions.ts", "TypeScript", 0, 0, 252, 0, 0, 0, 0, 0, 8, 59, 319
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/appwrite.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 9, 44
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/plaid.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 2, 13
+"/Users/ryanhajji/Documents/Projects/jsm_banking/lib/utils.ts", "TypeScript", 0, 0, 162, 0, 0, 0, 0, 0, 13, 38, 213
+"/Users/ryanhajji/Documents/Projects/jsm_banking/next.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 19, 0, 35, 17, 71
+"/Users/ryanhajji/Documents/Projects/jsm_banking/package-lock.json", "JSON", 0, 10594, 0, 0, 0, 0, 0, 0, 0, 1, 10595
+"/Users/ryanhajji/Documents/Projects/jsm_banking/package.json", "JSON", 0, 60, 0, 0, 0, 0, 0, 0, 0, 1, 61
+"/Users/ryanhajji/Documents/Projects/jsm_banking/postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 6, 0, 1, 2, 9
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Accesibility.svg", "XML", 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/AliceQueen.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Balance-Card-01.svg", "XML", 0, 0, 0, 36, 0, 0, 0, 0, 0, 1, 37
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Balance-Card-02.svg", "XML", 0, 0, 0, 36, 0, 0, 0, 0, 0, 1, 37
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/BanksList.svg", "XML", 0, 0, 0, 152, 0, 0, 0, 0, 0, 1, 153
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Banner.svg", "XML", 0, 0, 0, 10, 0, 0, 0, 0, 0, 1, 11
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/BarcalysWhite.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Barclays.svg", "XML", 0, 0, 0, 11, 0, 0, 0, 0, 0, 1, 12
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/BlueCirclePrimary.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Chase.svg", "XML", 0, 0, 0, 11, 0, 0, 0, 0, 0, 1, 12
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/ChaseWhite.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Cursor.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/EasyToUse.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/EliFanum.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/EllaJones.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/FilledStar.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Frame 501.svg", "XML", 0, 0, 0, 10, 0, 0, 0, 0, 0, 1, 11
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Globe.svg", "XML", 0, 0, 0, 7, 0, 0, 0, 0, 0, 1, 8
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/GoUpPage.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/GrayedStar.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Holiday+3.svg", "XML", 0, 0, 0, 26, 0, 0, 0, 0, 0, 1, 27
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/HorizonLogoWText.svg", "XML", 0, 0, 0, 10, 0, 0, 0, 0, 0, 1, 11
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/InteractiveTransactions.svg", "XML", 0, 0, 0, 34, 0, 0, 0, 0, 0, 1, 35
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/IshaanChadha.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/ItsTooEasy.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/JeremyBoateng.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Lines.svg", "XML", 0, 0, 0, 60, 0, 0, 0, 0, 0, 1, 61
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Money1.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Money2.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Organisation.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Paypass.svg", "XML", 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Pen.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/PhonePlaidAuth.svg", "XML", 0, 0, 0, 18, 0, 0, 0, 0, 0, 1, 19
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/PinkCircleSaving.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/RightArrow.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Screen.svg", "XML", 0, 0, 0, 18, 0, 0, 0, 0, 0, 1, 19
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/SecureAuth.svg", "XML", 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/SimpleAndQuick.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/SimpleOnboarding.svg", "XML", 0, 0, 0, 25, 0, 0, 0, 0, 0, 1, 26
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Sponsors.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Streamlined.svg", "XML", 0, 0, 0, 8, 0, 0, 0, 0, 0, 1, 9
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/StreamlinedIcon.svg", "XML", 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/SylviaCP.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Three dots.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Tick.svg", "XML", 0, 0, 0, 10, 0, 0, 0, 0, 0, 1, 11
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Transparency.svg", "XML", 0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 7
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/a-coffee.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/arrow-down.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/arrow-left.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/arrow-right.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/arrow-up.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/auth-image.svg", "XML", 0, 0, 0, 11, 0, 0, 0, 0, 0, 1, 12
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/bank-transfer.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/cards.svg", "XML", 0, 0, 0, 17, 0, 0, 0, 0, 0, 1, 18
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/coins.svg", "XML", 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/connect-bank.svg", "XML", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 8
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/credit-card.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/deposit.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/dollar-circle.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/dollar.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/edit.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/figma.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/filter-lines.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/fresh-fv.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/google.svg", "XML", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 13
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/gradient-mesh.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/hamburger.svg", "XML", 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/home.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/jsm.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/linesCool.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/loader.svg", "XML", 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 26
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/logo.svg", "XML", 0, 0, 0, 58, 0, 0, 0, 0, 0, 0, 58
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/logout.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/mastercard.svg", "XML", 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 6
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/money-send.svg", "XML", 0, 0, 0, 7, 0, 0, 0, 0, 0, 1, 8
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/monitor.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/payment-transfer.svg", "XML", 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 7
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/paymentTransfer.svg", "XML", 0, 0, 0, 17, 0, 0, 0, 0, 0, 1, 18
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/plus.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/search.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/shopping-bag.svg", "XML", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/spotify.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/stripe.svg", "XML", 0, 0, 0, 9, 0, 0, 0, 0, 0, 1, 10
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/tbfBakery.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 5
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/transaction.svg", "XML", 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 8
+"/Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/visa.svg", "XML", 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 4
+"/Users/ryanhajji/Documents/Projects/jsm_banking/sentry.client.config.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 9, 7, 30
+"/Users/ryanhajji/Documents/Projects/jsm_banking/sentry.edge.config.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 6, 5, 17
+"/Users/ryanhajji/Documents/Projects/jsm_banking/sentry.server.config.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 7, 7, 20
+"/Users/ryanhajji/Documents/Projects/jsm_banking/tailwind.config.ts", "TypeScript", 0, 0, 110, 0, 0, 0, 0, 0, 0, 3, 113
+"/Users/ryanhajji/Documents/Projects/jsm_banking/tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"/Users/ryanhajji/Documents/Projects/jsm_banking/types/index.d.ts", "TypeScript", 0, 0, 268, 0, 0, 0, 0, 0, 11, 53, 332
+"Total", "-", 26, 10674, 1345, 978, 3434, 23, 25, 286, 145, 850, 17786

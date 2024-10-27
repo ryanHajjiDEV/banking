@@ -8,7 +8,11 @@ TODO: Make a green confirmed message when the user has succesfully signed in
 
 TODO: Give a notice in a <p> tag if the user already exists (A BIT TRICKIER)
 
+Change the font of the bank details to be some kind of mono font.
 
+Work out the sizing of connect bank tag and try and add it to the existing ones.
+
+Make Add Bank button work 
 
 
 

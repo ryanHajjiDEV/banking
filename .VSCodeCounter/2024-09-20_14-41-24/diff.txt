@@ -1,0 +1,42 @@
+Date : 2024-09-20 14:41:24
+Directory : /Users/ryanhajji/Documents/Projects/jsm_banking
+Total : 12 files,  193 codes, 4 comments, 15 blanks, all 212 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript JSX |          1 |        148 |          4 |          8 |        160 |
+| XML            |         11 |         45 |          0 |          7 |         52 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |         12 |        193 |          4 |         15 |        212 |
+| app                                                                                     |          1 |        148 |          4 |          8 |        160 |
+| app/(landingPage)                                                                       |          1 |        148 |          4 |          8 |        160 |
+| app/(landingPage)/landing-page                                                          |          1 |        148 |          4 |          8 |        160 |
+| public                                                                                  |         11 |         45 |          0 |          7 |         52 |
+| public/icons                                                                            |         11 |         45 |          0 |          7 |         52 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/ryanhajji/Documents/Projects/jsm_banking/app/(landingPage)/landing-page/page.tsx | TypeScript JSX |        148 |          4 |          8 |        160 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Barclays.svg               | XML            |         11 |          0 |          1 |         12 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Chase.svg                  | XML            |         11 |          0 |          1 |         12 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/EasyToUse.svg              | XML            |          5 |          0 |          1 |          6 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Globe.svg                  | XML            |         -3 |          0 |          0 |         -3 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Money1.svg                 | XML            |          3 |          0 |          1 |          4 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Money2.svg                 | XML            |          3 |          0 |          1 |          4 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Pen.svg                    | XML            |          2 |          0 |          0 |          2 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/PinkCirclePrimary.svg      | XML            |         -3 |          0 |         -1 |         -4 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/PinkCircleSaving.svg       | XML            |          3 |          0 |          1 |          4 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Streamlined.svg            | XML            |          8 |          0 |          1 |          9 |
+| /Users/ryanhajji/Documents/Projects/jsm_banking/public/icons/Three dots.svg             | XML            |          5 |          0 |          1 |          6 |
+| Total                                                                                   |                |        193 |          4 |         15 |        212 |
++-----------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

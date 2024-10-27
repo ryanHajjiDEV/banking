@@ -28,7 +28,7 @@ import PlaidLink from "./PlaidLink";
 const AuthForm = ({ type }: { type: string }) => {
   const router = useRouter();
   const [user, setuser] = useState(null);
-  const [IsLoading, setIsLoading] = useState(false);
+  const [IsLoading, setIsLoading] = useState(false); // isLoading is false
   const [showConfetti, setShowConfetti] = useState(false);
 
   const formSchema = authFormSchema(type);
@@ -175,7 +175,7 @@ const AuthForm = ({ type }: { type: string }) => {
                       control={form.control}
                       name="dateOfBirth"
                       label="Date of Birth"
-                      placeholder="DD/MM/YYYY"
+                      placeholder="YYYY/MM/DD"
                     />
                     <CustomInput
                       control={form.control}

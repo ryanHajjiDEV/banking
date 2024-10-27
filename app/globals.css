@@ -129,6 +129,10 @@
     @apply text-14 font-medium text-gray-600;
   }
 
+  .total-transactions-category {
+    @apply text-[13px] font-normal text-gray-400;
+  }
+
   .total-balance-amount {
     @apply text-24 lg:text-30 flex-1 font-semibold text-gray-900;
   }
@@ -139,6 +143,14 @@
 
   .view-all-btn {
     @apply text-14 rounded-lg border border-gray-300 px-4 py-2.5 font-semibold text-gray-700;
+  }
+
+  .input-btn {
+    @apply text-14 rounded-lg border border-gray-300 px-4 py-2.5 font-normal tracking-[0.4px] text-gray-700;
+  }
+
+  .outline-btn {
+    @apply text-[17px] rounded-lg border border-gray-300 px-4 py-2.5 font-light text-[#000000];
   }
 
   .recent-transactions {
